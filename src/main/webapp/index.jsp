@@ -3,8 +3,8 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World</h1>
-	<h2>Hello from Ansible controller</h2>
+	<h1>Welcome to Devops CI CD world</h1>
+	<h2>Its Awesome</h2>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
